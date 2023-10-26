@@ -1,14 +1,13 @@
-package com.example.programmerstests;
+package com.example.programmerstests.programmers;
 
 import java.util.Scanner;
 
-public class TwistTheString {
+public class PrintByPastingString {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String a = sc.next();
+        String b = sc.next();
 
-        for (char ch : a.toCharArray()) {
-            System.out.println(ch);
-        }
+        System.out.println(a+b);
     }
 }

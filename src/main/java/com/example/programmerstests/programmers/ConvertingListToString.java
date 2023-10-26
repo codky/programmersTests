@@ -1,4 +1,4 @@
-package com.example.programmerstests;
+package com.example.programmerstests.programmers;
 
 public class ConvertingListToString {
     public static void main(String[] args) {

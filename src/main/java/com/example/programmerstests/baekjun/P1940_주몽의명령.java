@@ -1,4 +1,4 @@
-package com.example.programmerstests;
+package com.example.programmerstests.baekjun;
 
 import java.io.BufferedReader;
 import java.io.IOException;

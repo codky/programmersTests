@@ -1,4 +1,4 @@
-package com.example.programmerstests;
+package com.example.programmerstests.programmers;
 
 import java.util.Scanner;
 

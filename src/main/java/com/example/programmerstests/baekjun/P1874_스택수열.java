@@ -1,4 +1,4 @@
-package com.example.programmerstests;
+package com.example.programmerstests.baekjun;
 
 import java.util.Scanner;
 import java.util.Stack;

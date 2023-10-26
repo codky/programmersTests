@@ -1,4 +1,4 @@
-package com.example.programmerstests;
+package com.example.programmerstests.programmers;
 
 /**
  * 연산 ⊕는 두 정수에 대한 연산으로 두 정수를 붙여서 쓴 값을 반환합니다. 예를 들면 다음과 같습니다.
